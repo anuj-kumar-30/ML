@@ -13,6 +13,8 @@
 | **File Name**                                                                 | **Topic Covered**           |
 |:-----------------------------------------------------------------------------:|:--------------------------:|
 | [01-pca-step-by-step.ipynb](practice_notebooks/01-pca-step-by-step.ipynb)     | Manual PCA implementation  |
+| [02-pca-sklearn.ipynb](practice_notebooks/02-pca-sklearn.ipynb)               | PCA implementation with sklearn |
+
 
 ## 📁 Projects
 
